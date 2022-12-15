@@ -117,7 +117,11 @@ const MidBodyCard=()=>{
             <img style={imgStyle} src="https://assets.panashindia.com/media/wysiwyg/webp/homepage/shop-sequins-sarees.webp" alt="" />
         </div>
     </div>
+    <br/>
     <hr/>
+    <br/>
+    
+    
     </>
 }
 export default MidBodyCard
