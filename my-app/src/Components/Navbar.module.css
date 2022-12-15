@@ -17,6 +17,7 @@
     justify-content: space-around;
     background-color: black;
     color: white;
+  
   }
   
   .navbarContainer > div:nth-last-child(1) {
@@ -49,6 +50,7 @@
     align-items: center;
     justify-content: space-around;
     background-color: rgb(253, 252, 252);
+ 
   }
   .navbarBottomContainer {
     border: 0px solid black;
@@ -60,6 +62,7 @@
     text-align: center;
     color: white;
     align-items: center;
+   
   }
   
   .MidChildOne{
