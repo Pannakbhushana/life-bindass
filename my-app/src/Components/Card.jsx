@@ -20,7 +20,7 @@ const Card=()=>{
         height:'80%'
     }
 
-    return <div style={{backgroundColor:'#f8f8f8', width:'90%',marginLeft:'5%'}}>
+    return <div style={{backgroundColor:'#f8f8f8', width:'90%',marginLeft:'5%',textAlign:'center'}}>
         <h1>CATEGORIES TO BAG</h1>
     <div style={myStyle}>
         <div style={CardStyle}>
